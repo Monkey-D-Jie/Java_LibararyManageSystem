@@ -1,0 +1,66 @@
+table, td, th {
+	font-size: 12px;
+	font-family: "ËÎÌו";
+}
+
+th {
+	background: #336699;
+	color: #FFFFFF;
+	height: 20px;
+}
+
+input{
+	font-family: "ËÎÌו";
+	font-size: 12px;
+}
+
+td {
+	height: 18px;
+}
+
+table caption {
+	font-size: 14px;
+	color: #444444;
+	font-family: serif;
+	font-weight: bold;
+}
+
+.head td{
+	border: 1px solid #AAAAAA;
+	border-collapse: collapse;
+}
+
+#headtb {
+	font-size: 14px;
+	color: white;
+}
+
+#headtb td {
+	height: 25px;
+}
+
+#headtb a {
+	color: white;
+	font-weight: bold;
+	text-decoration: none
+}
+
+a:link {
+	text-decoration: none;
+	color: #3355FF;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #3355FF;
+}
+
+a:active {
+	text-decoration: none;
+	color: #3355FF;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #3355FF;
+}

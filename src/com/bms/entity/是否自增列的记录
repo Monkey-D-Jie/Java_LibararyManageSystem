@@ -1,0 +1,15 @@
+TABLE 'author_book` (
+  `authorID` int(11) NOT NULL,
+    
+TABLE `authors` (
+  `id` int(11) NOT NULL auto_increment,
+  
+  
+TABLE `books` (
+  `isbn` varchar(20) NOT NULL,
+  
+TABLE `publishers` (
+  `id` int(11) NOT NULL auto_increment,
+  
+TABLE `users` (
+  `id` int(11) NOT NULL auto_increment,
