@@ -1,0 +1,4 @@
+# Java_LibararyManageSystem
+基于java的泛型+反射机制的图书管理系统
+用上述两种方法实现了jdbc类的封装。
+以简单的ajax实现了页面的实时验证
